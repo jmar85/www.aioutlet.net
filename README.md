@@ -1,2 +1,2 @@
 # www.aioutlet.net
-AI Marketplace - The Shopify for AI
+AI Marketplace - The place to find or sell your Ai. 
